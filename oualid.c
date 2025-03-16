@@ -13,4 +13,6 @@ int main() {
         double  j = tan(45 );   
 
 printf("\n%lf",j) ; 
+printf("the name is oualid aazab ") ; 
+
 }
